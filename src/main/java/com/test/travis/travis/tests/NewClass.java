@@ -10,5 +10,7 @@ package com.test.travis.travis.tests;
  * @author ifernandez
  */
 public class NewClass {
-    
+    public static void main(String[] args) {
+        
+    }
 }
